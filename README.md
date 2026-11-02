@@ -26,6 +26,7 @@ non-binarized form.
 
 ```bash
 bash setup_and_run.sh [conda_env_name]   # default env name: text_embed
+```
 
 ## Reshape Data
 
