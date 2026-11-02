@@ -31,5 +31,5 @@ bash setup_and_run.sh [conda_env_name]   # default env name: text_embed
 ## Reshape Data
 
 The script reshape_data.py unpacks the npz files and rewrites then split by modality so it is more efficient for data loading.
-The reesulting data are uploaded to zenodo.
+The resulting data are [uploaded to zenodo](https://zenodo.org/records/23892102).
 
