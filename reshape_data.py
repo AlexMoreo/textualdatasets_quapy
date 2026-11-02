@@ -5,8 +5,6 @@ target_dir = 'data-remap'
 os.makedirs(target_dir, exist_ok=True)
 
 
-# datanames = ["cifar10_resnet18", "cifar100_resnet18", "cifar100coarse_resnet18", "fashionmnist_basiccnn", "svhn_resnet18", "mnist_basiccnn"]
-
 datanames = [
     "20newsgroups_roberta-base", "ag_news_roberta-base", "dbpedia_roberta-base",
     "imdb_roberta-base", "rt_roberta-base", "sst5_roberta-base", "trec_roberta-base",
